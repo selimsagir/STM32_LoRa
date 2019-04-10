@@ -1,0 +1,11 @@
+nmea.c:13:1:_is_value_set	16	static
+nmea.c:35:1:_crop_sentence	16	static
+nmea.c:63:1:_split_string_by_comma	32	static
+nmea.c:82:6:nmea_init	8	static
+nmea.c:93:6:nmea_cleanup	8	static
+nmea.c:99:1:nmea_get_type	24	static
+nmea.c:110:1:nmea_get_checksum	24	static
+nmea.c:125:1:nmea_has_checksum	16	static
+nmea.c:135:1:nmea_validate	48	static
+nmea.c:193:1:nmea_free	24	static
+nmea.c:210:1:nmea_parse	1080	static

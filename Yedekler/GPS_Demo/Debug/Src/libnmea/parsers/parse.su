@@ -1,0 +1,4 @@
+parse.c:4:1:nmea_position_parse	32	static
+parse.c:33:1:nmea_cardinal_direction_parse	16	static
+parse.c:56:1:nmea_time_parse	24	static
+parse.c:75:1:nmea_date_parse	24	static

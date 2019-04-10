@@ -1,0 +1,7 @@
+main.c:88:6:GPIO_ResetPin	8	static
+main.c:92:6:GPIO_SetPin	8	static
+main.c:96:6:SPI_Transmit	8	static
+main.c:100:6:SPI_Transmit_DMA	8	static
+main.c:214:6:SystemClock_Config	120	static
+main.c:110:5:main	24	static
+main.c:267:6:Error_Handler	0	static

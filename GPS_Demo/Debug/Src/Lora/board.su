@@ -1,0 +1,5 @@
+board.c:26:6:BoardInitPeriph	0	static
+board.c:30:6:BoardInitMcu	8	static
+board.c:37:6:BoardDeInitMcu	8	static
+board.c:44:10:BoardGetRandomSeed	0	static
+board.c:49:6:BoardGetUniqueId	8	static

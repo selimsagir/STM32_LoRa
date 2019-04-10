@@ -1,0 +1,4 @@
+gps.c:96:13:gps_parse_nmea_GPGGA	40	static
+gps.c:66:12:gps_parse_nmea_sentence	32	static
+gps.c:19:8:gps_open	8	static
+gps.c:30:6:gps_set_input_buffer	32	static

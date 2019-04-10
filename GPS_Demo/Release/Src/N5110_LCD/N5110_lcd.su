@@ -1,0 +1,11 @@
+N5110_lcd.c:155:13:AT_N5110LCD_write_buffer.constprop	16	static
+N5110_lcd.c:195:13:AT_N5110LCD_send_command	24	static
+N5110_lcd.c:26:22:AT_N5110LCD_open	8	static
+N5110_lcd.c:37:6:AT_N5110LCD_init	24	static
+N5110_lcd.c:58:6:AT_N5110LCD_update_display	8	static
+N5110_lcd.c:67:14:AT_N5110LCD_get_pixel	12	static
+N5110_lcd.c:78:14:AT_N5110LCD_set_pixel	8	static
+N5110_lcd.c:89:14:AT_N5110LCD_clear_pixel	8	static
+N5110_lcd.c:100:14:AT_N5110LCD_draw_pixel	8	static
+N5110_lcd.c:114:14:AT_N5110LCD_print_char	48	static
+N5110_lcd.c:138:14:AT_N5110LCD_print_string	40	static

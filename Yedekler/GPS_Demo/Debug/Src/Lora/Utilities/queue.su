@@ -1,0 +1,8 @@
+queue.c:33:6:circular_queue_init	24	static
+queue.c:43:5:circular_queue_add	40	static
+queue.c:100:5:circular_queue_get	32	static
+queue.c:132:5:circular_queue_remove	24	static
+queue.c:168:5:circular_queue_sense	24	static
+queue.c:183:16:circular_queue_get_free_size	24	static
+queue.c:201:13:queue_copy	24	static
+queue.c:209:13:add_elementSize_and_inc_writeIdx	16	static

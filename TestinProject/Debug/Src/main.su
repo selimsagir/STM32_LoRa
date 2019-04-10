@@ -1,0 +1,4 @@
+main.c:65:6:WaitForAMoment	8	static
+main.c:140:6:SystemClock_Config	96	static
+main.c:79:5:main	32	static
+main.c:231:6:_Error_Handler	0	static
